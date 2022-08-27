@@ -17,7 +17,7 @@
   <img align="center" alt="jeni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jeni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="jeni-mysql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
-  <img align="right" alt="jeni-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_4Lga9igN.png?width=676&height=676">
+
   
 </div>
 <hr>
