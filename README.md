@@ -1,7 +1,7 @@
 
 - ✿ codando apenas...
 - ✦ medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.
-- ⁂ nove pessoas não podem fazer um bebê em um mês...
+
 
  <a href="https://github.com/jennifxz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifxz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
