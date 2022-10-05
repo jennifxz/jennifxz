@@ -3,6 +3,10 @@
 - ✦ medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.
 
 
+ <a href="https://github.com/jennifxz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifxz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifxz&layout=compact&langs_count=7&theme=jolly">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jeni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
