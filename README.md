@@ -1,6 +1,6 @@
 
-- ✿ codando apenas...
-- ✦ medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.
+
+✦ medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.
 
 
  <a href="https://github.com/jennifxz">
